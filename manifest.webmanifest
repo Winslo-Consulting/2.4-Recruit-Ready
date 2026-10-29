@@ -1,0 +1,32 @@
+{
+  "name": "2.4 Recruit Ready",
+  "short_name": "Recruit Ready",
+  "description": "Independent training preparation for aspiring New Zealand Police recruits. Choose the 2.4 km Run or Full Police PAT pathway.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#081b2c",
+  "theme_color": "#081b2c",
+  "orientation": "portrait-primary",
+  "categories": [
+    "fitness",
+    "health",
+    "sports"
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "./app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
